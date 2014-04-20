@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertImgTo_HTML", "ConvertImgTo_HTML\ConvertImgTo_HTML.csproj", "{02D1756F-D588-4FF4-9253-4EBF4068E544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertImgTo_HTML(GuiVersion)", "ConvertImgTo_HTML(GuiVersion)\ConvertImgTo_HTML(GuiVersion).csproj", "{5D078A19-CB93-442D-847F-E3C48B8686F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D1756F-D588-4FF4-9253-4EBF4068E544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D1756F-D588-4FF4-9253-4EBF4068E544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D1756F-D588-4FF4-9253-4EBF4068E544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D1756F-D588-4FF4-9253-4EBF4068E544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D078A19-CB93-442D-847F-E3C48B8686F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D078A19-CB93-442D-847F-E3C48B8686F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D078A19-CB93-442D-847F-E3C48B8686F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D078A19-CB93-442D-847F-E3C48B8686F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

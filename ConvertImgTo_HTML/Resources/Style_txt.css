@@ -1,0 +1,15 @@
+body
+{
+	line-height:4pt;
+	letter-spacing:-0.1em;
+	
+	background-color:#000000;
+	white-space:nowrap;
+}
+font
+{
+	font-size:4pt;
+
+	padding:0px;
+	margin:0px;
+}
